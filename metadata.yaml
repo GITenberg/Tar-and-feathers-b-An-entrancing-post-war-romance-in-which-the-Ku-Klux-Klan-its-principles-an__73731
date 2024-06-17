@@ -1,11 +1,16 @@
 _repo: Tar-and-feathers-b-An-entrancing-post-war-romance-in-which-the-Ku-Klux-Klan-its-principles-an__73731
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73731-h/images/cover.jpg
 creator:
   author:
     agent_name: Rubin, Victor
     gutenberg_agent_id: '57201'
     url: http://www.gutenberg.org/2009/agents/57201
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73731#Tar-and-feathers-b-An-entrancing-post-war-romance-in-which-the-Ku-Klux-Klan-its-principles-an_
 gutenberg_issued: '2024-05-30'
 gutenberg_type: Text
 identifiers:
